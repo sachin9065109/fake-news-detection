@@ -44,6 +44,10 @@ Dataset contains:
 - Text tags/categories
 - Multi-class labels
 
+- 🔗 Live Demo: https://j9esrjoeo4uurjdy5jsc9f.streamlit.app/
+
+- 
+
 ---
 
 ## Project Structure
@@ -58,3 +62,5 @@ FakeNews-Hackathon-Project/
 ├── Blend_v4d.ipynb
 ├── README.md
 ├── requirements.tx
+
+
