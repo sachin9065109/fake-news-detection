@@ -4,3 +4,4 @@ fastai==1.0.61
 numpy
 pandas
 scikit-learn
+streamlit
